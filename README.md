@@ -1,4 +1,4 @@
-# 🏭 WareWise AI: AI-Powered Warehouse Automation Tool
+# 🏭 AutoWare: Warehouse Automation Tool
 
 [![GitHub Socialify](https://socialify.git.ci/Abhinav-0525/Warehouse-automation/image?name=1&owner=1&pattern=Circuit+Board&theme=Dark)](https://github.com/Abhinav-0525/Warehouse-automation)
 
