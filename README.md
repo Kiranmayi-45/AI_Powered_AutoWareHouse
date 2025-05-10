@@ -27,7 +27,7 @@ It helps businesses optimize their inventory tracking and warehouse management t
   Shows exactly:
   - What products are stored
   - In what quantities
-  - In which shelf
+  - In which shelf it is
 
 - 📉 **Low Stock Alerts**  
   Instantly notifies when product quantities fall below threshold levels.
